@@ -9,3 +9,10 @@ Alert for the low price of an amazon product using the beautifulsoup, requests a
 
 ## smtplib: 
 <p>The smtplib module defines an SMTP client session object that can be used to send mail to any Internet machine with an SMTP or ESMTP listener daemon.</p>
+
+
+## How to setup smtp session and send mail?
+
+- Enable use of less secure apps from your google account https://myaccount.google.com/lesssecureapps
+- Enable two step authentication in your google account https://www.google.com/landing/2step/
+- Get the google password for the smtp session (google search google app password -> first link).
